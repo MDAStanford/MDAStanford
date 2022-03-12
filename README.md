@@ -73,7 +73,9 @@
       History/Political Science
 
 
-      CERTIFICATIONS 
+![037a5e6381f8d9932082f1b13e2acf31](https://user-images.githubusercontent.com/99157857/158002529-39b41d76-b514-4521-b62f-dba73b87bdf3.gif)
+
+      
 <img width="706" alt="Screen Shot 2022-03-11 at 6 04 35 PM" src="https://user-images.githubusercontent.com/99157857/157999590-1d55ea8b-4a16-4e9a-9289-ad1bf86628c4.png">
 
 <img width="782" alt="Screen Shot 2022-03-11 at 6 06 09 PM" src="https://user-images.githubusercontent.com/99157857/157999681-32fa848b-04c1-4d3f-8800-ae1b6e883528.png">
