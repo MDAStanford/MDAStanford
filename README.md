@@ -25,9 +25,9 @@
     Bash Scripting and Programming, Windows Administration 
     and Hardening, Networking Fundamentals, Cryptography, Network Security, 
     Cloud Security and 
-    Virtualization, Web Development,Web Vulnerabilitiesand Hardening, Penetration Testing 
-    and Ethical Hacking, SIEM Software,Digital Forensics, Governance and Compliance, 
-    Terminal and Bash, Linux Administration and Hardening
+    Virtualization, Web Development,Web Vulnerabilitiesand Hardening,
+    Penetration Testing and Ethical Hacking, SIEM Software,Digital Forensics, 
+    Governance and Compliance, Terminal and Bash, Linux Administration and Hardening
         
         
     PROJECTS
