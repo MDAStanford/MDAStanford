@@ -30,7 +30,7 @@
       Capture The Flag competition. The impact of this exercise was to explore both sides of 
       hacking
 
-      [PROJECT 3](https://github.com/MDAStanford/Cyber-Security-Project-3)
+      PROJECT 3 https://github.com/MDAStanford/Cyber-Security-Project-3
 
       Automated Elk Stack Deployment
       Network design on Azure Cloud: VMs, Network Security Groups, Load Balancers, subnets, 
@@ -85,5 +85,5 @@
 
 <img width="1060" alt="Screen Shot 2022-03-11 at 6 09 47 PM" src="https://user-images.githubusercontent.com/99157857/157999826-a8a748bc-c941-4276-a8d9-4d19c440c608.png">
 
-[BEATLES](https://i.gifer.com/3laL.gif)
+(https://i.gifer.com/3laL.gif)
 
