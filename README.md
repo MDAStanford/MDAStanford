@@ -9,7 +9,6 @@
    
    
    
-
    
    
     #Fun Facts About Me
@@ -25,7 +24,7 @@
     🎵 The Beatles & The Stones
     🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish + 🇫🇮Finnish 
      
-    🐕 Dog Dad    
+    🐶 Dog Dad    
      
      
     MICHAEL STANFORD
