@@ -20,10 +20,8 @@
     ⚽️ Portland Timbers (MLS) 
     ⚽️ Leyton Orient FC (EFL League 2)
     ⚾️ Los Angeles Dodgers
-
     🎵 The Beatles & The Stones
     🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish + 🇫🇮Finnish 
-     
     🐶 Dog Dad    
      
      
