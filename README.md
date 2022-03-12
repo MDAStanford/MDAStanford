@@ -1,4 +1,4 @@
-      MICHAEL STANFORD
+    MICHAEL STANFORD
 
       Los Angeles, CA 90064	
 
