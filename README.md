@@ -2,9 +2,9 @@
 
       Los Angeles, CA 90064	
 
-      Phone: (310) 564-6607 | Email: MDAStanford@ProtonMail.com
+      Phone: (310) 564-6607 | 
       
-      
+      Email: MDAStanford@ProtonMail.com
 
       LinkedIn:  https://www.linkedin.com/in/michaeldstanford/
 
@@ -90,4 +90,8 @@
 
 
 ![037a5e6381f8d9932082f1b13e2acf31](https://user-images.githubusercontent.com/99157857/158002529-39b41d76-b514-4521-b62f-dba73b87bdf3.gif)
+
+[MS_CV.pdf](https://github.com/MDAStanford/MDAStanford/files/8237024/MS_CV.pdf)
+
+
 
