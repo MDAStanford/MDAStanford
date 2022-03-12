@@ -39,10 +39,10 @@
     PROJECT 3 https://github.com/MDAStanford/Cyber-Security-Project-3
 
     Automated Elk Stack Deployment
-    Network design on Azure Cloud: VMs, Network Security Groups, Load Balancers, subnets, 
-    and software deployment. Demonstration of a complete ELK Deployment: Elasticsearch,
-    Logstash, and Kibana using Docker and Ansible to deploy multiple web servers and an 
-    ELK server from a Jump box.
+    Network design on Azure Cloud: VMs, Network Security Groups, Load Balancers, 
+    subnets, and software deployment. Demonstration of a complete ELK Deployment: 
+    Elasticsearch, Logstash, and Kibana using Docker and Ansible to deploy 
+    multiple web servers and an ELK server from a Jump box.
     
     PROJECT_1 https://github.com/MDAStanford/Cyber-Security-Project-1#cyber-security-project-1
    
@@ -67,16 +67,16 @@
     (2000 – 2007)
     Managed Nike’s relationship with Manchester United’s operations team to supply the club with all on-field and off-               field equipment. 
            
-      EDUCATION
+    EDUCATION
 
-      Boot Camp Certificate: UCLA, Los Angeles, CA (2021-2022)
+    Boot Camp Certificate: UCLA, Los Angeles, CA (2021-2022)
 
-      An intensive 24-week long boot camp. Skills
-      learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite
-      and training towards Security+, Network+, Cloud+ and CISSP.
+    An intensive 24-week long boot camp. Skills
+    learned consist of Wireshark, Kali Linux, Metasploit, Burp Suite
+    and training towards Security+, Network+, Cloud+ and CISSP.
 
-      Bachelor Of Arts: Portland State University, Portland, OR (1990-1994)
-      History/Political Science
+    Bachelor Of Arts: Portland State University, Portland, OR (1990-1994)
+    History/Political Science
 
 
 ![037a5e6381f8d9932082f1b13e2acf31](https://user-images.githubusercontent.com/99157857/158002529-39b41d76-b514-4521-b62f-dba73b87bdf3.gif)
