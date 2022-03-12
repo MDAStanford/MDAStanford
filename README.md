@@ -85,4 +85,5 @@
 
 <img width="1060" alt="Screen Shot 2022-03-11 at 6 09 47 PM" src="https://user-images.githubusercontent.com/99157857/157999826-a8a748bc-c941-4276-a8d9-4d19c440c608.png">
 
-https://images.app.goo.gl/YJgUiP5oZMjpSsXC8
+![2qnu](https://user-images.githubusercontent.com/99157857/158002385-c2fbe85a-942b-451e-a446-d6881f5aba63.gif)
+
