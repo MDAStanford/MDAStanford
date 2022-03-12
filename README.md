@@ -6,7 +6,7 @@
       
     Email: MDAStanford@ProtonMail.com
 
-    LinkedIn:  https://www.linkedin.com/in/michaeldstanford/
+    LinkedIn: https://www.linkedin.com/in/michaeldstanford/
 
     SUMMARY
     Aspiring Cloud Security Engineer / Lover Of The Linux Command Line
@@ -31,10 +31,10 @@
         
         
     PROJECTS
-    Assessment and Hardening of a Vulnerable System The creation of a virtual network, 
-    with Red Team, Blue Team and Purple Team exploits. Included Red Team vs Blue Team 
-    Capture The Flag competition. The impact of this exercise was to explore both sides of 
-    hacking
+    Assessment and Hardening of a Vulnerable System The creation of a 
+    virtual network, with Red Team, Blue Team and Purple Team exploits. 
+    Included Red Team vs Blue Team Capture The Flag competition. The impact 
+    of this exercise was to explore both sides of hacking
 
     PROJECT 3 https://github.com/MDAStanford/Cyber-Security-Project-3
 
