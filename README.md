@@ -86,5 +86,6 @@
 <img width="1060" alt="Screen Shot 2022-03-11 at 6 09 47 PM" src="https://user-images.githubusercontent.com/99157857/157999826-a8a748bc-c941-4276-a8d9-4d19c440c608.png">
 
 
-![adios-despedida](https://user-images.githubusercontent.com/99157857/158002432-ccc2de1e-ab7c-43b9-971b-7fddd899461c.gif)
+
+![037a5e6381f8d9932082f1b13e2acf31](https://user-images.githubusercontent.com/99157857/158002529-39b41d76-b514-4521-b62f-dba73b87bdf3.gif)
 
