@@ -40,7 +40,7 @@
       Logstash, and Kibana using Docker and Ansible to deploy multiple web servers and an 
       ELK server from a Jump box.
     
-      [PROJECT 1] (https://github.com/MDAStanford/Cyber-Security-Project-1)
+      [PROJECT 1](https://github.com/MDAStanford/Cyber-Security-Project-1)
       
                
       EXPERIENCE 
