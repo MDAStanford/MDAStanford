@@ -3,6 +3,10 @@
 <!--
 **MDAStanford/MDAStanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[MS_CV.pdf](https://github.com/MDAStanford/MDAStanford/files/8236724/MS_CV.pdf)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
