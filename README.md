@@ -41,7 +41,7 @@
       ELK server from a Jump box.
     
       PROJECT_1 https://github.com/MDAStanford/Cyber-Security-Project-1#cyber-security-project-1
-    
+    (https://github.com/MDAStanford/Cyber-Security-Project-1)
       
                
       EXPERIENCE 
