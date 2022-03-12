@@ -16,7 +16,7 @@
     🌩 Cloud Security Architect
     🧿 Blue Team Warrior
     🐧 Linux Enthusiast   
-    📖 studying for Securitry+ and AWS Certified Cloud Practitioner
+    📖 Studying for Securitry+ and AWS Certified Cloud Practitioner
     ⚽️ Portland Timbers (MLS) 
     ⚽️ Leyton Orient FC (EFL League 2)
     ⚾️ Los Angeles Dodgers
