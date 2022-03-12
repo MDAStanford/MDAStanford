@@ -39,10 +39,11 @@
     PROJECT 3 https://github.com/MDAStanford/Cyber-Security-Project-3
 
     Automated Elk Stack Deployment
-    Network design on Azure Cloud: VMs, Network Security Groups, Load Balancers, 
-    subnets, and software deployment. Demonstration of a complete ELK Deployment: 
-    Elasticsearch, Logstash, and Kibana using Docker and Ansible to deploy 
-    multiple web servers and an ELK server from a Jump box.
+    Network design on Azure Cloud: VMs, Network Security Groups, 
+    Load Balancers,subnets, and software deployment. Demonstration of 
+    a complete ELK Deployment: Elasticsearch, Logstash, and Kibana using 
+    Docker and Ansible to deploy multiple web servers and an ELK server 
+    from a Jump box.
     
     PROJECT_1 https://github.com/MDAStanford/Cyber-Security-Project-1#cyber-security-project-1
    
