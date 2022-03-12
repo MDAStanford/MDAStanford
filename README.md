@@ -6,7 +6,7 @@
       
     Email: MDAStanford@ProtonMail.com
 
-    LinkedIn: https://www.linkedin.com/in/michaeldstanford/
+    [LinkedIn](https://www.linkedin.com/in/michaeldstanford/)
 
     SUMMARY
     Aspiring Cloud Security Engineer / Lover Of The Linux Command Line
