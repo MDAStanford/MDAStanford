@@ -17,8 +17,7 @@
     🧿 Blue Team Warrior
     🐧 Linux Enthusiast   
     📖 Studying for Securitry+ and AWS Certified Cloud Practitioner
-    ⚽️ Portland Timbers (MLS) 
-    ⚽️ Leyton Orient FC (EFL League 2)
+    ⚽️ Portland Timbers (MLS) + Leyton Orient FC (EFL League 2)
     ⚾️ Los Angeles Dodgers
     🎵 The Beatles & The Stones
     🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish + 🇫🇮Finnish 
@@ -33,7 +32,7 @@
       
     Email: MDAStanford@ProtonMail.com
 
-    [LinkedIn](https://www.linkedin.com/in/michaeldstanford/)
+    LinkedIn https://www.linkedin.com/in/michaeldstanford/
 
     SUMMARY
     Aspiring Cloud Security Engineer / Lover Of The Linux Command Line
