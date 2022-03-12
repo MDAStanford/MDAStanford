@@ -1,3 +1,15 @@
+    
+
+
+    
+    
+    
+    
+    ⚽️ Portland Timbers (MLS) and Leyton Orient (EFL League 2)
+    ⚾️ Los Angeles Dodgers
+    📖 studying for Securitry+
+    🇫Finnish &🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish
+    
     MICHAEL STANFORD
 
     Los Angeles, CA 90064	
