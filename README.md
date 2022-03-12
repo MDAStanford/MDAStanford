@@ -19,13 +19,13 @@
       Attention to detail.
                 
       TECHNICAL SKILLS
-      Python, Kali Linux, Ubuntu, WireShark, Splunk, Metasploit, Microsoft Azure, Google Cloud,
-      Google Suite, Office 365, BurpSuite , Agile, Linux Archiving and Logging Data,  
-      Bash Scripting and Programming, Windows Administration and Hardening, Networking Fundamentals,
-      Cryptography, Network Security, Cloud Security and Virtualization, Web Development, 
-      Web Vulnerabilitiesand Hardening, Penetration Testing and Ethical Hacking, SIEM Software, 
-      Digital Forensics, Governance and Compliance, Terminal and Bash, Linux Administration and 
-      Hardening
+      Python, Kali Linux, Ubuntu, WireShark, Splunk, Metasploit, Microsoft Azure, 
+      Google Cloud, Google Suite, Office 365, BurpSuite , Agile, Linux Archiving 
+      and Logging Data, Bash Scripting and Programming, Windows Administration and Hardening, 
+      Networking Fundamentals, Cryptography, Network Security, Cloud Security and 
+      Virtualization, Web Development,Web Vulnerabilitiesand Hardening, Penetration Testing 
+      and Ethical Hacking, SIEM Software,Digital Forensics, Governance and Compliance, 
+      Terminal and Bash, Linux Administration and Hardening
         
         
       PROJECTS
