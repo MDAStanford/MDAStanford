@@ -2,7 +2,7 @@
 
       Los Angeles, CA 90064	
 
-      Phone: (310) 564-6607 | Email: MDAStanford@protonmail.com
+      Phone: (310) 564-6607 | Email: MDAStanford@ProtonMail.com
 
       LinkedIn:  https://www.linkedin.com/in/michaeldstanford/
 
@@ -18,9 +18,10 @@
       Python, Kali Linux, Ubuntu, WireShark, Splunk, Metasploit, Microsoft Azure, Google Cloud,
       Google Suite, Office 365, BurpSuite , Agile, Linux Archiving and Logging Data,  
       Bash Scripting and Programming, Windows Administration and Hardening, Networking Fundamentals,
-      Cryptography, Network Security, Cloud Security and Virtualization, Web Development, Web Vulnerabilities 
-      and Hardening, Penetration Testing and Ethical Hacking, SIEM Software, Digital Forensics, 
-      Governance and Compliance, Terminal and Bash, Linux Administration and Hardening
+      Cryptography, Network Security, Cloud Security and Virtualization, Web Development, 
+      Web Vulnerabilitiesand Hardening, Penetration Testing and Ethical Hacking, SIEM Software, 
+      Digital Forensics, Governance and Compliance, Terminal and Bash, Linux Administration and 
+      Hardening
         
         
       PROJECTS
@@ -29,7 +30,7 @@
       Capture The Flag competition. The impact of this exercise was to explore both sides of 
       hacking
 
-      []https://github.com/MDAStanford/Cyber-Security-Project-3
+      https://github.com/MDAStanford/Cyber-Security-Project-3
 
       Automated Elk Stack Deployment
       Network design on Azure Cloud: VMs, Network Security Groups, Load Balancers, subnets, 
@@ -84,3 +85,4 @@
 
 <img width="1060" alt="Screen Shot 2022-03-11 at 6 09 47 PM" src="https://user-images.githubusercontent.com/99157857/157999826-a8a748bc-c941-4276-a8d9-4d19c440c608.png">
 
+https://i.gifer.com/3laL.gif
