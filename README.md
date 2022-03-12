@@ -9,8 +9,9 @@
       LinkedIn:  https://www.linkedin.com/in/michaeldstanford/
 
       SUMMARY
-      Aspiring Cloud Security Engineer / Lover Of The Linux Command Line / Blue Team Warrior.
-      Problem–solver with the ability to distill complex concepts into comprehensive terms. 
+      Aspiring Cloud Security Engineer / Lover Of The Linux Command Line
+      / Blue Team Warrior. Problem–solver with the ability to distill complex 
+      concepts into comprehensive terms. 
       Seasoned working in collaborative settings with diverse teams. Security enthusiast 
       motivated by teamwork, innovation, and cross functional knowledge-sharing to ensure 
       compliance with information security best practices. Global thinker. 
