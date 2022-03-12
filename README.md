@@ -54,19 +54,21 @@
     Senior Product Manager
     Vandelay World Wide | Los Angeles, CA 	
     (2013 – present)
-    Responsible for all aspects of product, from concept to commercialization.
+    Responsible for all aspects of product, from concept to 
+    commercialization.
 
     Product Manager
     Belkin International | Compton, CA		
     (2007 – 2013)
-    Responsible for creating and driving product creation timelines. Oversaw raw materials 
-    suppliers as well as partner factories. Monitored adherence to  Belkin’s Social 
-    Compliance standards. 
+    Responsible for creating and driving product creation timelines. 
+    Oversaw raw materials suppliers as well as partner factories. Monitored 
+    adherence to  Belkin’s SocialvCompliance standards. 
 
     Product Line Manager / Manchester United
     Nike | Beaverton, OR
     (2000 – 2007)
-    Managed Nike’s relationship with Manchester United’s operations team to supply the club with all on-field and off-               field equipment. 
+    Managed Nike’s relationship with Manchester United’s operations 
+    team to supply the club with all on-field and off-field equipment. 
            
     EDUCATION
 
