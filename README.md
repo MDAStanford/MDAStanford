@@ -4,7 +4,7 @@
 
       Phone: (310) 564-6607 | Email: MDAStanford@protonmail.com
 
-      LinkedIn: https://www.linkedin.com/in/michaeldstanford/
+      LinkedIn:  https://www.linkedin.com/in/michaeldstanford/
 
       SUMMARY
       Aspiring Cloud Security Engineer / Lover Of The Linux Command Line / Blue Team Warrior.
@@ -29,7 +29,7 @@
       Capture The Flag competition. The impact of this exercise was to explore both sides of 
       hacking
 
-      https://github.com/MDAStanford/Cyber-Security-Project-3
+      []https://github.com/MDAStanford/Cyber-Security-Project-3
 
       Automated Elk Stack Deployment
       Network design on Azure Cloud: VMs, Network Security Groups, Load Balancers, subnets, 
