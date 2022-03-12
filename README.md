@@ -40,7 +40,7 @@
       Logstash, and Kibana using Docker and Ansible to deploy multiple web servers and an 
       ELK server from a Jump box.
     
-      [PROJECT 1](https://github.com/MDAStanford/Cyber-Security-Project-1)
+      PROJECT 1 https://github.com/MDAStanford/Cyber-Security-Project-1
       
                
       EXPERIENCE 
@@ -53,7 +53,7 @@
       Product Manager
       Belkin International | Compton, CA		
       (2007 – 2013)
-       Responsible for creating and driving product creation timelines. Oversaw raw materials suppliers as well as                      partner factories. Monitored adherence to  Belkin’s Social Compliance standards. 
+      Responsible for creating and driving product creation timelines. Oversaw raw materials suppliers as well as                     partner factories. Monitored adherence to  Belkin’s Social Compliance standards. 
 
       Product Line Manager / Manchester United
       Nike | Beaverton, OR
