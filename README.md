@@ -64,7 +64,7 @@
     Included Red Team vs Blue Team Capture The Flag competition. The impact 
     of this exercise was to explore both sides of hacking
 
-    [PROJECT 3](https://github.com/MDAStanford/Cyber-Security-Project-3)
+    PROJECT_3 https://github.com/MDAStanford/Cyber-Security-Project-3)
     
 
     Automated Elk Stack Deployment
