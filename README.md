@@ -132,7 +132,7 @@ Project-3![image](https://user-images.githubusercontent.com/99157857/158040190-b
 
 
 
-<img width="1080" alt="TRY HACK ME : BLUE TEAM CERT" src="https://user-images.githubusercontent.com/99157857/158040309-536ed362-9398-4747-8ae7-d6ae91b27a14.png">
+
 
 
 
