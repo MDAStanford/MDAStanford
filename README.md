@@ -23,7 +23,7 @@
     ⚾️ Los Angeles Dodgers
     🎵 The Beatles & The Stones
     🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish & 🇫🇮Finnish 
-    🐶 Dad    
+    🐶 Dog Dad    
      
      
     MICHAEL STANFORD
