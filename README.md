@@ -14,7 +14,7 @@
     #Fun Facts About Me
     
    
-    👨‍👨‍ 👧 Girl Dad & Husband 
+    👪 Girl Dad & Husband 
     🌩 Cloud Security Architect
     🧿 Blue Team Warrior
     🐧 Linux Enthusiast   
