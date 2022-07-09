@@ -15,7 +15,7 @@
     
    
     👪 Girl Dad & Husband 
-    🌩 Cloud Security Architect
+    🌩 Product Manager
     🧿 Blue Team Warrior
     🐧 Linux Enthusiast   
     📖 Studying for Securitry+ and AWS Certified Cloud Practitioner
@@ -37,11 +37,11 @@
     LinkedIn https://www.linkedin.com/in/michaeldstanford/
 
     SUMMARY
-    Aspiring Cloud Security Engineer / Lover Of The Linux Command Line
+    Product Manager / Lover Of The Linux Command Line
     / Blue Team Warrior. Problem–solver with the ability to distill 
     complex concepts into comprehensive terms. 
-    Product Manager with a passion for cryptography and block chain, with
-    the ability to distill complex concepts into comprehensive terms.
+    Passion for cryptography, cryptocurrency and block chain.
+    The ability to distill complex concepts into comprehensive terms.
     Seasoned working in collaborative settings with diverse teams.
     Security enthusiast motivated by teamwork, innovation, and cross
     functional knowledge-sharing to ensure compliance with information
