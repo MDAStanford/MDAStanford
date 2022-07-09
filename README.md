@@ -40,11 +40,13 @@
     Aspiring Cloud Security Engineer / Lover Of The Linux Command Line
     / Blue Team Warrior. Problem–solver with the ability to distill 
     complex concepts into comprehensive terms. 
+    Product Manager with a passion for cryptography and block chain, with
+    the ability to distill complex concepts into comprehensive terms.
     Seasoned working in collaborative settings with diverse teams.
-    Security enthusiast motivated by teamwork, innovation, and cross 
-    functional knowledge-sharing to ensure compliance with information 
-    security best practices. Global thinker. Thinks well under pressure. 
-    Attention to detail.
+    Security enthusiast motivated by teamwork, innovation, and cross
+    functional knowledge-sharing to ensure compliance with information
+    security best practices. Global citizen. Thinks well under pressure.
+    Attention to detail. Versed in managing globally distributed teams.
                 
     TECHNICAL SKILLS
     Python, Kali Linux, Ubuntu, WireShark, Splunk, Metasploit, 
@@ -83,15 +85,14 @@
     Senior Product Manager
     Vandelay World Wide | Los Angeles, CA 	
     (2013 – present)
-    Responsible for all aspects of product, from concept to 
-    commercialization.
+    Responsible for all aspects of product, from concept to commercialization. Built Samsonite-licensed Reebok bag category to $6M in     initial season. Client roster includes Samsonite, Reebok, Bose, Lifeworks and Pelican Products.
 
     Product Manager
     Belkin International | Compton, CA		
     (2007 – 2013)
-    Responsible for creating and driving product creation timelines. 
-    Oversaw raw materials suppliers as well as partner factories. Monitored 
-    adherence to  Belkin’s SocialvCompliance standards. 
+    Assembled a team to reorganized Belkin’s softgoods business: iPhone
+    peripherals, bags, and home storage solutions.
+    Brought category profitable within two seasons.
 
     Product Line Manager / Manchester United
     Nike | Beaverton, OR
