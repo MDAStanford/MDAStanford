@@ -19,7 +19,7 @@
     🧿 Blue Team Warrior
     🐧 Linux Enthusiast   
     📖 Studying for Securitry+ and AWS Certified Cloud Practitioner
-    ⚽️ Portland Timbers (MLS) & Leyton Orient FC (EFL League 2)
+    ⚽️ Portland Timbers & Leyton Orient 
     ⚾️ Los Angeles Dodgers
     🎵 The Beatles & The Stones
     🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish & 🇫🇮Finnish 
