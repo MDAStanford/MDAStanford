@@ -143,5 +143,5 @@ Project-3![image](https://user-images.githubusercontent.com/99157857/158040190-b
 
 
 
-[CertificateOfCompletion_Cryptocurrency Foundations 2018.pdf](https://github.com/MDAStanford/MDAStanford/files/9312662/CertificateOfCompletion_Cryptocurrency.Foundations.2018.pdf)
+(https://github.com/MDAStanford/MDAStanford/files/9312662/CertificateOfCompletion_Cryptocurrency.Foundations.2018.pdf)
 
