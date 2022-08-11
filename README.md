@@ -139,6 +139,7 @@ Project-3![image](https://user-images.githubusercontent.com/99157857/158040190-b
 <img width="810" alt="BLOCKCHAIN BASICS" src="https://user-images.githubusercontent.com/99157857/184044509-344ba697-1c62-4531-983c-b70d8699ea72.png">
 
 
+![01  GOLDMAN_SACHS](https://user-images.githubusercontent.com/99157857/184045739-e2c4524a-685c-4772-b4e3-8d98e5940036.png)
 
 
 
