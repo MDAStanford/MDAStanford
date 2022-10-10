@@ -146,3 +146,4 @@ Project-3![image](https://user-images.githubusercontent.com/99157857/158040190-b
 
 
 [CertificateOfCompletion_Cryptocurrency Foundations 2018.pdf](https://github.com/MDAStanford/MDAStanford/files/9312700/CertificateOfCompletion_Cryptocurrency.Foundations.2018.pdf)
+[OKTA TRAINING.pdf](https://github.com/MDAStanford/MDAStanford/files/9747450/OKTA.TRAINING.pdf)
