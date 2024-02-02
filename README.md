@@ -143,6 +143,7 @@ Project-3![image](https://user-images.githubusercontent.com/99157857/158040190-b
 
 
 
+[CompTIA Security+ ce certificate (1).pdf](https://github.com/MDAStanford/MDAStanford/files/14132863/CompTIA.Security%2B.ce.certificate.1.pdf)
 
 
 [CertificateOfCompletion_Cryptocurrency Foundations 2018.pdf](https://github.com/MDAStanford/MDAStanford/files/9312700/CertificateOfCompletion_Cryptocurrency.Foundations.2018.pdf)
