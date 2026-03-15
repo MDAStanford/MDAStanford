@@ -18,9 +18,9 @@
     🌩 Product Manager
     🧿 Blue Team Warrior
     🐧 Linux Enthusiast   
-    📖 Studying for Securitry+ and AWS Certified Cloud Practitioner
+    📖 Securitry+ and AWS Certified Cloud Practitioner
     ⚽️ Portland Timbers & Leyton Orient 
-    ⚾️ Los Angeles Dodgers
+    ⚾️ Seattle Mariners
     🎵 The Beatles & The Stones
     🏴󠁧󠁢󠁳󠁣󠁴󠁿Scottish & 🇫🇮Finnish 
     🐶 Dog Father    
